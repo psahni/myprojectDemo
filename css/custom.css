@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: black;
 	}
 
+strong{
+	font-size: 20px;
+	color: orange;
+}
 #side-carousel img {
 	margin: 0 auto;
 	}
@@ -12,11 +16,11 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #eee;
     color: black;
 }
-    
+
 .footer-blurb-item {
     padding: 20px;
     }
- 
+
 .small-print {
 	background-color: #fff;
 	padding: 30px 0;
@@ -28,4 +32,3 @@ h1, h2, h3, h4, h5, h6 {
 .small-print {
 	text-align: center;
 	}
-	
