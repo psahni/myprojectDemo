@@ -6,9 +6,12 @@ strong{
 	font-size: 20px;
 	color: orange;
 }
+
+
 #side-carousel img {
 	margin: 0 auto;
-	}
+	padding: 10px;
+}
 
 .footer-blurb {
     padding: 30px 0;
