@@ -13,3 +13,8 @@ var myObject = {
     this.name = name;
   }
 }
+
+
+var myFunc = function() {
+  console.log("Myfunc");
+}
