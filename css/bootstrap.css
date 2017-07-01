@@ -6798,3 +6798,7 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+h1 {
+  padding: 2px;
+}
